@@ -36,7 +36,7 @@
     5.3 Change the Dimensions to `iPhone 14 Pro Max`
     - The Dimensions dropdown is located on the top right of the 
     ![Dimensions](docs/dimensions.png)
-6. Continue to `User Operation Instructions` to view the app.
+6. Continue to `User Operation Instructions` to use the app.
 
 ## Runtime Environment
 1. This application is a prototype created using Proto.io
