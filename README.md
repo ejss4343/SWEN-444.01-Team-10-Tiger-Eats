@@ -19,24 +19,12 @@
     - User Operation Instructions
 
 ## Installation procedure 
-1. Download `SWEN 444.01 Team 10 Tiger Eats-html.zip`
-2. Unzip the folder into your preferred directory as `SWEN 444.01 Team 10 Tiger Eats-html` and open the folder.
-3. Open the `\src` directory.
-4. Open the `index.html` file. The prototype should be viewable now and     left-aligned in the page.
-5. To view prototype as a mobile device
-    
-    5.1 Open the debugging console. On windows you can use: `Ctrl+Shift+J`
-
-    ![Debugging Console](docs/debugging-console.png)
-    5.2 Open the Device Toolbar. There are multiple ways to do this:
-    -  Use `Ctrl+Shift+M`
-    - Alternatively, click the icon of a phone in front of a laptop which is highlighted in blue in the screenshot below. 
-    ![Device Toolbar Icon](docs/device-toolbar-icon.png)
-    
-    5.3 Change the Dimensions to `iPhone 14 Pro Max`
-    - The Dimensions dropdown is located on the top right of the 
-    ![Dimensions](docs/dimensions.png)
-6. Continue to `User Operation Instructions` to use the app.
+1. Navigate to Releases in the `SWEN-444.01-Team-10-Tiger-Eats` on the right side of the page.
+  ![Releases](docs/releases.png) 
+2. Download `SWEN 444.01 Team 10 Tiger Eats-html.zip`
+3. Unzip the folder into your preferred directory as `SWEN 444.01 Team 10 Tiger Eats-html` and open the folder.
+4. Open `preview.html` to view the prototype.
+5. Continue to `User Operation Instructions` to use the app.
 
 ## Runtime Environment
 1. This application is a prototype created using Proto.io
