@@ -18,11 +18,13 @@
     - Bugs 
     - User Operation Instructions
 
-## Installation procedure 
-1. Navigate to Releases in the `SWEN-444.01-Team-10-Tiger-Eats` on the right side of the page.
+## Installation procedure
+1. Navigate to "Releases" in the `SWEN-444.01-Team-10-Tiger-Eats` on the right side of the page under "About" and click on `tags`.
   ![Releases](docs/releases.png) 
-2. Download `SWEN 444.01 Team 10 Tiger Eats-html.zip`
-3. Unzip the folder into your preferred directory as `SWEN 444.01 Team 10 Tiger Eats-html` and open the folder.
+2. Select the most recent release i.e. `1.0`.
+2. Download `Source code (zip)`
+  ![Source Zip](docs/source-zip.png) 
+3. Unzip the folder into your preferred directory as `SWEN-444.01-Team-10-Tiger-Eats-[release #]` and open the folder.
 4. Open `preview.html` to view the prototype.
 5. Continue to `User Operation Instructions` to use the app.
 
@@ -32,11 +34,15 @@
 3. If being used on a desktop, set the screen to a mobile device
 
 ## Unsupported Features
-N/A
+- The system is currently from a customer's perpective and not from a vendor's so it does
+not yet include vendor features such as:
+1. Editing store details and menu
+2. Communicating with customers
+3. Reading orders
+4. Marking orders as ready
 
 ## Bugs 
 N/A
-- Make sure it opens on homepage.
 
 ## User Operation Instructions
 
